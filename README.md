@@ -1,8 +1,5 @@
 ## Title: Embedded System for Stepper Motor Control Using Joystick and TFT Display
 
-
-TEST
-
 *Objective*: The aim of this project is to develop an embedded system that allows users to control the speed of a stepper motor using a joystick as the input device and a TFT display to display the speed information. The system will use an STM32F4 microcontroller as the main control unit.
 
 *Project Scope*: This project will involve designing and implementing the hardware and software components of the embedded system. The system will consist of an STM32F4 microcontroller, a joystick, a TFT display, and a stepper motor. The microcontroller will receive inputs from the joystick, process the input data, and generate the necessary control signals to control the speed of the stepper motor. The TFT display will be used to display the current speed of the motor.
