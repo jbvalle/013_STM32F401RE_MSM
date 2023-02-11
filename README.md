@@ -4,6 +4,7 @@
 
 *Project Scope*: This project will involve designing and implementing the hardware and software components of the embedded system. The system will consist of an STM32F4 microcontroller, a joystick, a TFT display, and a stepper motor. The microcontroller will receive inputs from the joystick, process the input data, and generate the necessary control signals to control the speed of the stepper motor. The TFT display will be used to display the current speed of the motor.
 
+
 *Key Features*:
 
 - [ ] User interface using a joystick
@@ -18,7 +19,7 @@ The project will be divided into the following stages:
 - Requirements analysis and design
 - Hardware design and implementation
 - Software design and implementation
-- Integration and testing
+- Integration and testing (criterion)
 - Final evaluation and documentation
 
 *Expected Outcome*: 
